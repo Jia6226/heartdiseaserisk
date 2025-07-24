@@ -1,6 +1,5 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Heart Disease Risk Predicition
 ```
-⬆️ (Replace above with your app's name)
 ```
 
 Description of the app ...
